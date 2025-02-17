@@ -1,0 +1,25 @@
+Body{
+    background: rgb(117, 175, 230);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header_div{
+    background: rgb(247, 246, 245);
+    color :rgb(122, 182, 109);
+    font-family: "Karla", serif;
+}
+
+.main_div button{   
+    background-color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color:  rgb(166, 88, 255);
+    line-height: 3;
+    text-align: center;
+}
