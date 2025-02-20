@@ -45,7 +45,7 @@ function gotResults(error, results){
           img.src = 'A.png';
           img1.src = 'E.png';
           img2.src = 'DancingI.gif';
-          img3.src = 'I.png';
+          img3.src = 'O.png';
           img4.src = 'U.png';
         }else if (results[0].label == "gritos O"){
           img.src = 'A.png';
